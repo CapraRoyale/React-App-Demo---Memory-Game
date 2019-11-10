@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "letter": "A",
+    "image": "assets/png/A.png",
+    "svg": "assets/svg/A.svg"
+  },
+  {
+    "id": 2,
+    "letter": "B",
+    "image": "assets/png/B.png",
+    "svg": "assets/svg/B.svg"
+  },
+  {
+    "id": 3,
+    "letter": "C",
+    "image": "assets/png/C.png",
+    "svg": "assets/svg/C.svg"
+  },
+  {
+    "id": 4,
+    "letter": "D",
+    "image": "assets/png/D.png",
+    "svg": "assets/svg/D.svg"
+  },
+  {
+    "id": 5,
+    "letter": "E",
+    "image": "assets/png/E.png",
+    "svg": "assets/svg/E.svg"
+  },
+  {
+    "id": 6,
+    "letter": "F",
+    "image": "assets/png/F.png",
+    "svg": "assets/svg/F.svg"
+  },
+  {
+    "id": 7,
+    "letter": "G",
+    "image": "assets/png/G.png",
+    "svg": "assets/svg/G.svg"
+  },
+  {
+    "id": 8,
+    "letter": "H",
+    "image": "assets/png/H.png",
+    "svg": "assets/svg/H.svg"
+  },
+  {
+    "id": 9,
+    "letter": "I",
+    "image": "assets/png/I.png",
+    "svg": "assets/svg/I.svg"
+  },
+  {
+    "id": 10,
+    "letter": "J",
+    "image": "assets/png/J.png",
+    "svg": "assets/svg/J.svg"
+  },
+  {
+    "id": 11,
+    "letter": "K",
+    "image": "assets/png/K.png",
+    "svg": "assets/svg/K.svg"
+  },
+  {
+    "id": 12,
+    "letter": "L",
+    "image": "assets/png/L.png",
+    "svg": "assets/svg/L.svg"
+  },
+  {
+    "id": 13,
+    "letter": "M",
+    "image": "assets/png/M.png",
+    "svg": "assets/svg/M.svg"
+  },
+  {
+    "id": 14,
+    "letter": "N",
+    "image": "assets/png/N.png",
+    "svg": "assets/svg/N.svg"
+  },
+  {
+    "id": 15,
+    "letter": "O",
+    "image": "assets/png/O.png",
+    "svg": "assets/svg/O.svg"
+  },
+  {
+    "id": 16,
+    "letter": "P",
+    "image": "assets/png/P.png",
+    "svg": "assets/svg/P.svg"
+  },
+  {
+    "id": 17,
+    "letter": "Q",
+    "image": "assets/png/Q.png",
+    "svg": "assets/svg/Q.svg"
+  },
+  {
+    "id": 18,
+    "letter": "R",
+    "image": "assets/png/R.png",
+    "svg": "assets/svg/R.svg"
+  },
+  {
+    "id": 19,
+    "letter": "S",
+    "image": "assets/png/S.png",
+    "svg": "assets/svg/S.svg"
+  },
+  {
+    "id": 20,
+    "letter": "T",
+    "image": "assets/png/T.png",
+    "svg": "assets/svg/T.svg"
+  },
+  {
+    "id": 21,
+    "letter": "U",
+    "image": "assets/png/U.png",
+    "svg": "assets/svg/U.svg"
+  },
+  {
+    "id": 22,
+    "letter": "V",
+    "image": "assets/png/V.png",
+    "svg": "assets/svg/V.svg"
+  },
+  {
+    "id": 23,
+    "letter": "W",
+    "image": "assets/png/W.png",
+    "svg": "assets/svg/W.svg"
+  },
+  {
+    "id": 24,
+    "letter": "X",
+    "image": "assets/png/X.png",
+    "svg": "assets/svg/X.svg"
+  },
+  {
+    "id": 25,
+    "letter": "Y",
+    "image": "assets/png/Y.png",
+    "svg": "assets/svg/Y.svg"
+  },
+  {
+    "id": 26,
+    "letter": "Z",
+    "image": "assets/png/Z.png",
+    "svg": "assets/svg/Z.svg"
+  }
+]

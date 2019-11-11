@@ -1,4 +1,4 @@
-# Demo React Memory Game
+# React Demo - ASL Memory Game
 
 ## A Full_Stack React App utilizing:
 
@@ -10,5 +10,5 @@
 
 ### Instructions
 1. Click on an image of a hand sign
-2. continue clicking through each different hand sign
+2. Continue clicking through each different hand sign
 3. Be careful never to click the same sign twice
